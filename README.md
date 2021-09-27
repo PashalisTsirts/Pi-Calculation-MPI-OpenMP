@@ -1,5 +1,2 @@
-Serial:
+[Readme.txt](https://github.com/PashalisTsirts/Pi-Calculation-MPI-OpenMP/files/7238877/Readme.txt)
 
-Complile: gcc -Wall pi_serial.c
-
-Run: ./a.out
